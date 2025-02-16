@@ -226,7 +226,7 @@ source .venv/bin/activate
 ```
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.2.4
-pip install gradio rwkv-fla accelerate deepspeed cupy
+pip install gradio rwkv-fla accelerate deepspeed
 ```
 ```bash
 git clone https://github.com/uniartisan/transformers.git
